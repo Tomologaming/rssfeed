@@ -15,7 +15,7 @@ jobs:
           node-version: 20
       - run: node build.mjs
         env:
-          NOTION_TOKEN: __SECRET__
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
