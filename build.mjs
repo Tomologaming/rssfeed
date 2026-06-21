@@ -9,7 +9,8 @@ const headers = {
 };
 
 const q = await fetch(`https://api.notion.com/v1/databases/${DB}/query`, {
-  method: "POST", headers,
+  method: "POST",
+  headers,
   body: JSON.stringify({ filter: { property: "Status", select: { equals: "Aktiv" } } }),
 }).then(r => r.json());
 
