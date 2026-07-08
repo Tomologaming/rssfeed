@@ -5,18 +5,18 @@
 		<link>https://flumoep.gamer.gd</link>
 		<description>Häufig gestellte Fragen (FAQ) rund um FlumoEP.</description>
 		<language>de-de</language>
-		<lastBuildDate>Mon, 06 Jul 2026 04:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jul 2026 04:00:00 +0200</lastBuildDate>
 		<item>
 			<title><![CDATA[Wie trete ich dem FlumoEP-Server bei?]]></title>
 			<description><![CDATA[Starte Minecraft, gehe auf „Mehrspieler“ → „Server hinzufügen“ und trage die Adresse flumoep.gamer.gd ein.]]></description>
-			<pubDate>Mon, 06 Jul 2026 04:00:00 +0200</pubDate>
-			<guid isPermaLink="false">flumoep-faq-notion-100</guid>
+			<pubDate>Wed, 08 Jul 2026 04:00:00 +0200</pubDate>
+			<guid isPermaLink="false">flumoep-faq-https://app.notion.com/p/64c3b6182743406886d98d75b0191686</guid></guid>
 		</item>
 		<item>
 			<title><![CDATA[Welche Minecraft-Version brauche ich?]]></title>
 			<description><![CDATA[FlumoEP unterstützt die neueste Java-Edition. Stelle sicher, dass dein Client aktuell ist.]]></description>
-			<pubDate>Mon, 06 Jul 2026 04:00:00 +0200</pubDate>
-			<guid isPermaLink="false">flumoep-faq-notion-101</guid>
+			<pubDate>Wed, 08 Jul 2026 04:00:00 +0200</pubDate>
+			<guid isPermaLink="false">flumoep-faq-https://app.notion.com/p/50825d34e74d4fe0bd5c1a6709e3f15c</guid></guid>
 		</item>
 	</channel>
 </rss>
