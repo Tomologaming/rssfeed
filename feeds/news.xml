@@ -5,18 +5,18 @@
 		<link>https://flumoep.gamer.gd</link>
 		<description>News, Ankündigungen, Patches und Changelogs von FlumoEP.</description>
 		<language>de-de</language>
-		<lastBuildDate>Wed, 08 Jul 2026 04:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jul 2026 04:00:00 +0200</lastBuildDate>
 		<item>
 			<title><![CDATA[FlumoEP ist offiziell live! 🎉]]></title>
 			<description><![CDATA[Der FlumoEP-Server ist ab sofort für alle Spieler geöffnet. Kommt vorbei und erkundet die Welt!]]></description>
 			<pubDate>Sun, 21 Jun 2026 00:00:00 +0200</pubDate>
-			<guid isPermaLink="false">flumoep-news-https://app.notion.com/p/dbfee493b6384d6cbff3deeb6f5e92f0</guid></guid>
+			<guid isPermaLink="false">flumoep-news-notion-97</guid>
 		</item>
 		<item>
 			<title><![CDATA[Patch 1.1 – Performance & Fixes]]></title>
 			<description><![CDATA[Verbesserte Server-Performance, behobene Login-Fehler und kleinere Balancing-Anpassungen.]]></description>
 			<pubDate>Sat, 20 Jun 2026 00:00:00 +0200</pubDate>
-			<guid isPermaLink="false">flumoep-news-https://app.notion.com/p/b68ed23aedbc4677b8e4623fc30a869f</guid></guid>
+			<guid isPermaLink="false">flumoep-news-notion-98</guid>
 		</item>
 	</channel>
 </rss>
